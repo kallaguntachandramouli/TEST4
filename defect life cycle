@@ -1,4 +1,4 @@
- Defect Life Cycle : defect is varies from organization to organiation and project to project on the requirement of the tools.
+ Defect Life Cycle : defect is varies from organization to organiation and project to project on the requirement of the tools on the software.
 defect life cycle:
 1.New : it is identfy the defect by the testers.
 2.Assigned: it is assigned  to  from new  to open after finding the defect.
@@ -8,3 +8,4 @@ defect life cycle:
 6.retesting: they testing the defect is sole or not and see the defect is solve or not. 
 7.verfied: verfied the defect is fix or not after the defect fix then next moved it to close.
 8.closed: it the final phase of the defect life cycle here they  defect is closed.
+ 
