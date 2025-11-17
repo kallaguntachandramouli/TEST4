@@ -1,0 +1,10 @@
+ Defect Life Cycle : defect is varies from organization to organiation and project to project on the requirement of the tools.
+defect life cycle:
+1.New : it is identfy the defect by the testers.
+2.Assigned: it is assigned  to  from new  to open after finding the defect.
+3.open: here the view the defect  and send the fied state.
+4.fix: they identify the defect and  start working on it to resloe on fix out.
+5. testing: they testing the code it resolve or not and send it into retesting.
+6.retesting: they testing the defect is sole or not and see the defect is solve or not. 
+7.verfied: verfied the defect is fix or not after the defect fix then next moved it to close.
+8.closed: it the final phase of the defect life cycle here they  defect is closed.
